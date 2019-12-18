@@ -6,7 +6,7 @@ import 'package:path_provider/path_provider.dart';
 
 void main() {
   runApp(MaterialApp(
-    title: 'Lista de Tarefas',
+    title: 'ToDo List',
     home: Home(),
   ));
 }
